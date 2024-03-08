@@ -67,10 +67,41 @@ header h1{
 
 .header-border-lines{
   position: absolute;
-  left: -525px;
+  right: -490px;
   top: -90px;
   overflow: hidden;
   z-index: -20;
+}
+
+@media (max-width: 930px){
+  .menu nav{
+    padding-bottom: 30px;
+  }
+
+  .header-border-lines{
+    top: -70px;
+  }
+}
+
+@media (max-width: 600px){
+  .menu nav{
+    padding-bottom: 10px;
+  }
+  .header-border-lines{
+    right: -590px;
+  }
+}
+
+@media (max-width: 416px){
+  .title-lines{
+    left: -225px;
+    top: -120px;
+  }
+
+  .header-border-lines{
+    right: -650px;
+    top: -55px;
+  }
 }
 
 /*header-end*/
@@ -80,6 +111,7 @@ header h1{
     list-style: none;
     margin: 0;
     padding: 0;
+    background-color: #151517;
   }
   ul li {
     display: inline-block;
@@ -92,16 +124,18 @@ header h1{
       color: rgba(255, 255, 255, 0.8);
     }
   }
-  .menu-trigger {
-    display: none;
-    font-size: 24px;
-    background: none;
-    border: none;
-    color: white;
-    padding: 0;
-    cursor: pointer;
-  }
-  @media (max-width: $breakpoint-lg) {
+.menu-trigger {
+  display: none;
+  font-size: 45px;
+  background: none;
+  border: none;
+  color: white;
+  padding: 0;
+  cursor: pointer;
+  z-index: 50;
+}
+
+  @media (max-width: 600px) {
     .menu-trigger,
     .icon-menu-line {
       display: flex;
@@ -122,14 +156,14 @@ header h1{
       display: block;
     }
     ul {
+      padding-top: 20px;
+      padding-bottom: 20px;
       display: none;
       position: absolute;
       right: 0;
-      top: 100%;
+      top: 0;
       z-index: 1;
       width: 100%;
-      max-width: 320px;
-      border-radius: 0 0 0 12px;
       overflow: hidden;
     }
     ul li {
@@ -191,6 +225,38 @@ main h2{
   top: -330px;
   z-index: -20;
 }
+
+@media (max-width: 960px){
+  .goals{
+    flex-direction: column-reverse;
+    margin: 0 17px;
+  }
+
+  .goals-text{
+    max-width: 600px;
+    width: unset;
+  }
+
+  .goals-text-border{
+    right: -215px;
+    left: unset;
+  }
+
+  .goals-image{
+    margin-top: 30px;
+    margin-right: 0;
+    margin-left: -80px;
+  }
+
+}
+
+@media (max-width: 670px){
+  .goals-image{
+    margin-left: 0;
+  }
+}
+
+
 
 /*---goalsEnd---*/
 
@@ -441,6 +507,12 @@ main h2{
   margin-top: 30px;
   text-align: center;
   margin-bottom: 30px;
+}
+
+@media (max-width: 990px){
+  .top-footer{
+    flex-direction: column;
+  }
 }
 
 /*---footerEnd---*/
