@@ -4,7 +4,7 @@ import { lightness } from "@theme-ui/color"
 const theme = {
   colors: {
     ...defaultColors,
-    text: "#000",
+    text: "#fff",
     background: "#151517",
     primary: "#5C2941",
     accent: "#fff",
@@ -21,7 +21,7 @@ const theme = {
     buttonHoverColor: lightness("siteColor", 0.8),
     modes: {
       dark: {
-        text: "#f5f5f5",
+        text: "#fff",
         background: "#151517",
         primary: "#252525",
         accent: "#5C2941",
