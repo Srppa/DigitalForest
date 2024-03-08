@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "title": "DigitalForest",
+    "titleTemplate": "%s",
+    "description": "Weeee digital forests are fun",
+    "siteUrl": "https://foundation.stackrole.com",
+    "image": "/assets/tree-icon.png",
+    "iconimage": "/assets/tree-icon.png",
+    "twitterUsername": "@stackrole"
+  },
+  "ga": "UA-XXXXXXXXX-X"
+}

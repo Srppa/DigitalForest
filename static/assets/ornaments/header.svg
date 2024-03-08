@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="2010"
+   height="800"
+   viewBox="0 0 531.8125 211.66667"
+   version="1.1"
+   id="svg10729"
+   sodipodi:docname="header.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview10731"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="1359.0592"
+     inkscape:cy="398.10112"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1-5">
+    <inkscape:grid
+       spacingx="1.3229167"
+       spacingy="1.3229167"
+       type="xygrid"
+       id="grid12302"
+       originx="0"
+       originy="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs10726">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter29552"
+       x="-0.52574615"
+       y="-0.72531607"
+       width="2.0142377"
+       height="2.3926131">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="13.463202"
+         id="feGaussianBlur29554" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter29556"
+       x="-0.15503702"
+       y="-0.88397889"
+       width="1.3214125"
+       height="2.6972471">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="13.463202"
+         id="feGaussianBlur29558" />
+    </filter>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1-5"
+     transform="translate(-52.916667,13.229165)">
+    <path
+       style="fill:none;stroke:#e20ff4;stroke-width:4.23333333;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter29552);opacity:0.51263538"
+       d="m 472.28125,83.343751 h -66.14584 c 3e-5,-17.161603 2e-5,-32.829441 1e-5,-51.593747 l 11.90625,11.90625 h -9.26041 l 13.22916,14.552083 h -13.22916 l 15.875,15.875001 h -17.19792"
+       id="path14932-3"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:label="path14932-3" />
+    <path
+       id="path16494-4"
+       style="fill:none;stroke:#49e258;stroke-width:4.23333333;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter29556);opacity:0.50902527"
+       inkscape:label="path16494-4"
+       d="m 403.48958,41.010418 -9.26041,9.260417 h 6.61458 l -10.58333,10.583333 h 10.58333 l -13.22917,13.229167 h 14.55209 l -207.69792,9.260417 h 209.02083 z" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1-5-7"
+     transform="translate(-50.270838,11.906248)">
+    <path
+       style="fill:none;stroke:#e20ff4;stroke-width:1.32292;stroke-dasharray:none;stroke-opacity:1"
+       d="m 447.7846,84.666667 h -44.29502 c 3e-5,-17.161603 3e-5,-30.183608 2e-5,-48.947914 l 11.90625,11.906251 h -9.26042 l 13.22917,14.552083 h -13.22917 l 15.875,15.875001 h -17.19792"
+       id="path14932-3-4"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:label="path14932-3" />
+    <path
+       style="fill:none;stroke:#49e258;stroke-width:1.32292;stroke-dasharray:none;stroke-opacity:1"
+       d="m 191.82291,84.666667 209.02084,10e-7 10e-6,-39.687498 -9.26041,9.260417 h 6.61458 L 387.6146,64.822921 h 10.58333 l -13.22917,13.229167 h 14.55209"
+       id="path16494-4-7"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:label="path16494-4" />
+  </g>
+</svg>
