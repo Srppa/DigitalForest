@@ -5,7 +5,7 @@ const theme = {
   colors: {
     ...defaultColors,
     text: "#000",
-    background: "#fff",
+    background: "#151517",
     primary: "#5C2941",
     accent: "#fff",
     muted: "rgba(0, 0, 0, 0.7)",
@@ -22,7 +22,7 @@ const theme = {
     modes: {
       dark: {
         text: "#f5f5f5",
-        background: "#111",
+        background: "#151517",
         primary: "#252525",
         accent: "#5C2941",
         muted: "rgba(255, 255, 255, 0.7)",
