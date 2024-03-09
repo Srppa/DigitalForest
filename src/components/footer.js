@@ -9,12 +9,15 @@ const Footer = () => (
       <div className="top-footer">
         <a href="https://cuni.cz/uken-1.html" target="_blank" className="logo uk">
           <img  src="/assets/logos/logo-uk.png"/>
+          <img className="backlight" src="/assets/ornaments/logo-violet.svg"/>
         </a>
         <a href="https://www.czu.cz/en" target="_blank" className="logo czu">
           <img src="/assets/logos/logo-czu.png"/>
+          <img className="backlight" src="/assets/ornaments/logo-green.svg"/>
         </a>
         <a href="https://psu.cas.cz/en/" target="_blank" className="logo psu">
           <img  src="/assets/logos/logo-psu.png"/>
+          <img className="backlight" src="/assets/ornaments/logo-violet.svg"/>
         </a>
         </div>
         <div className="bottom-footer">
